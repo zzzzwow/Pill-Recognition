@@ -1,0 +1,1 @@
+/Volumes/Sen/Downloads/Pill-Recognition-main/build/app/intermediates/cxx/Debug/1o2405s2/obj/arm64-v8a
